@@ -1,0 +1,11 @@
+D:\Наташа_Dev\HW\HW_OOP\HW_OOP\obj\Debug\netcoreapp3.1\HW_OOP.csprojAssemblyReference.cache
+D:\Наташа_Dev\HW\HW_OOP\HW_OOP\obj\Debug\netcoreapp3.1\HW_OOP.AssemblyInfoInputs.cache
+D:\Наташа_Dev\HW\HW_OOP\HW_OOP\obj\Debug\netcoreapp3.1\HW_OOP.AssemblyInfo.cs
+D:\Наташа_Dev\HW\HW_OOP\HW_OOP\bin\Debug\netcoreapp3.1\HW_OOP.exe
+D:\Наташа_Dev\HW\HW_OOP\HW_OOP\bin\Debug\netcoreapp3.1\HW_OOP.deps.json
+D:\Наташа_Dev\HW\HW_OOP\HW_OOP\bin\Debug\netcoreapp3.1\HW_OOP.runtimeconfig.json
+D:\Наташа_Dev\HW\HW_OOP\HW_OOP\bin\Debug\netcoreapp3.1\HW_OOP.runtimeconfig.dev.json
+D:\Наташа_Dev\HW\HW_OOP\HW_OOP\bin\Debug\netcoreapp3.1\HW_OOP.dll
+D:\Наташа_Dev\HW\HW_OOP\HW_OOP\bin\Debug\netcoreapp3.1\HW_OOP.pdb
+D:\Наташа_Dev\HW\HW_OOP\HW_OOP\obj\Debug\netcoreapp3.1\HW_OOP.dll
+D:\Наташа_Dev\HW\HW_OOP\HW_OOP\obj\Debug\netcoreapp3.1\HW_OOP.pdb
